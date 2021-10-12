@@ -1,5 +1,7 @@
 Hi, I’m @farndot
+
 I’m interested in Machine Learning, mostly image analysis
+
 How to reach me james.c.farnell@gmail.com
 
 <!---
